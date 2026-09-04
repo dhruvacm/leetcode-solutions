@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhruvacm/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/dhruvacm/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,9 +18,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhruvacm/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/dhruvacm/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhruvacm/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/dhruvacm/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
