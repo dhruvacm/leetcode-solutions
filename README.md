@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruvacm/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/dhruvacm/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/dhruvacm/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
