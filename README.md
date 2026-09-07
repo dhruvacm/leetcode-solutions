@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhruvacm/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/dhruvacm/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/dhruvacm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
