@@ -3,9 +3,9 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            int temp=nums[i]*nums[i];
-            nums[i]=temp;
-        }
+            
+            nums[i]=nums[i]*nums[i];  
+              }      
         Arrays.sort(nums);
         return nums;
     }
