@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dhruvacm/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/dhruvacm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruvacm/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -46,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/dhruvacm/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
