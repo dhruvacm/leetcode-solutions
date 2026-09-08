@@ -1,19 +1,13 @@
 class Solution {
     public int findNumbers(int[] nums) {
+        
         int evencount=0;
-        for(int i=0;i<nums.length;i++)
+        for(int n:nums)
         {
-            int a=nums[i];
-            int count=0;
-            while(a!=0)
-            {
-                a/=10;
-                count++;
-            }
-            if(count%2==0)
+            int len=String.valueOf(n).length();
+            if(len%2==0)
             evencount++;
         }
         return evencount;
-        
     }
 }
