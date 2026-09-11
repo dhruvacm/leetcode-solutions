@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dhruvacm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/dhruvacm/leetcode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruvacm/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruvacm/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -57,10 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/dhruvacm/leetcode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruvacm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruvacm/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruvacm/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dhruvacm/leetcode-solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dhruvacm/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
