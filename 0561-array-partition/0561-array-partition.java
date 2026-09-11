@@ -6,10 +6,7 @@ class Solution {
         Arrays.sort(nums);
         while(l<nums.length && r<nums.length)
         {
-            if(nums[l]<nums[r])
-            min+=nums[l];
-            else
-            min+=nums[r];
+           min+=Math.min(nums[l],nums[r]);
             l+=2;
             r+=2;
 
