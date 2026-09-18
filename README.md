@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/dhruvacm/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [3340-check-balanced-string](https://github.com/dhruvacm/leetcode-solutions/tree/master/3340-check-balanced-string) |
 ## Array
 |  |
