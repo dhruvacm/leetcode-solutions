@@ -35,15 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dhruvacm/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/dhruvacm/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruvacm/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvacm/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvacm/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/dhruvacm/leetcode-solutions/tree/master/0561-array-partition) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
