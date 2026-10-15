@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dhruvacm/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/dhruvacm/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/dhruvacm/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruvacm/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dhruvacm/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/dhruvacm/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/dhruvacm/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dhruvacm/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/dhruvacm/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvacm/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/dhruvacm/leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
