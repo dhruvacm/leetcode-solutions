@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/dhruvacm/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/dhruvacm/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/dhruvacm/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/dhruvacm/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/dhruvacm/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
